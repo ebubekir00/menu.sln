@@ -1,0 +1,10 @@
+C:\Users\Efe Teke\OneDrive\Masaüstü\BekiroFinal\Final_Odevi\Final_Odevi\bin\Debug\Final_Odevi.exe.config
+C:\Users\Efe Teke\OneDrive\Masaüstü\BekiroFinal\Final_Odevi\Final_Odevi\bin\Debug\Final_Odevi.exe
+C:\Users\Efe Teke\OneDrive\Masaüstü\BekiroFinal\Final_Odevi\Final_Odevi\bin\Debug\Final_Odevi.pdb
+C:\Users\Efe Teke\OneDrive\Masaüstü\BekiroFinal\Final_Odevi\Final_Odevi\obj\Debug\Final_Odevi.csproj.AssemblyReference.cache
+C:\Users\Efe Teke\OneDrive\Masaüstü\BekiroFinal\Final_Odevi\Final_Odevi\obj\Debug\Final_Odevi.Form1.resources
+C:\Users\Efe Teke\OneDrive\Masaüstü\BekiroFinal\Final_Odevi\Final_Odevi\obj\Debug\Final_Odevi.Properties.Resources.resources
+C:\Users\Efe Teke\OneDrive\Masaüstü\BekiroFinal\Final_Odevi\Final_Odevi\obj\Debug\Final_Odevi.csproj.GenerateResource.cache
+C:\Users\Efe Teke\OneDrive\Masaüstü\BekiroFinal\Final_Odevi\Final_Odevi\obj\Debug\Final_Odevi.csproj.CoreCompileInputs.cache
+C:\Users\Efe Teke\OneDrive\Masaüstü\BekiroFinal\Final_Odevi\Final_Odevi\obj\Debug\Final_Odevi.exe
+C:\Users\Efe Teke\OneDrive\Masaüstü\BekiroFinal\Final_Odevi\Final_Odevi\obj\Debug\Final_Odevi.pdb
